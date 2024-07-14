@@ -1,0 +1,17 @@
+C:\Estudo\ASPNET\Mentoria\Curso-RabbitMQ\RabbitMQ-My\RabbitMQ-My\bin\Debug\net8.0\RabbitMQ-My.exe
+C:\Estudo\ASPNET\Mentoria\Curso-RabbitMQ\RabbitMQ-My\RabbitMQ-My\bin\Debug\net8.0\RabbitMQ-My.deps.json
+C:\Estudo\ASPNET\Mentoria\Curso-RabbitMQ\RabbitMQ-My\RabbitMQ-My\bin\Debug\net8.0\RabbitMQ-My.runtimeconfig.json
+C:\Estudo\ASPNET\Mentoria\Curso-RabbitMQ\RabbitMQ-My\RabbitMQ-My\bin\Debug\net8.0\RabbitMQ-My.dll
+C:\Estudo\ASPNET\Mentoria\Curso-RabbitMQ\RabbitMQ-My\RabbitMQ-My\bin\Debug\net8.0\RabbitMQ-My.pdb
+C:\Estudo\ASPNET\Mentoria\Curso-RabbitMQ\RabbitMQ-My\RabbitMQ-My\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Estudo\ASPNET\Mentoria\Curso-RabbitMQ\RabbitMQ-My\RabbitMQ-My\obj\Debug\net8.0\RabbitMQ-My.csproj.AssemblyReference.cache
+C:\Estudo\ASPNET\Mentoria\Curso-RabbitMQ\RabbitMQ-My\RabbitMQ-My\obj\Debug\net8.0\RabbitMQ-My.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudo\ASPNET\Mentoria\Curso-RabbitMQ\RabbitMQ-My\RabbitMQ-My\obj\Debug\net8.0\RabbitMQ-My.AssemblyInfoInputs.cache
+C:\Estudo\ASPNET\Mentoria\Curso-RabbitMQ\RabbitMQ-My\RabbitMQ-My\obj\Debug\net8.0\RabbitMQ-My.AssemblyInfo.cs
+C:\Estudo\ASPNET\Mentoria\Curso-RabbitMQ\RabbitMQ-My\RabbitMQ-My\obj\Debug\net8.0\RabbitMQ-My.csproj.CoreCompileInputs.cache
+C:\Estudo\ASPNET\Mentoria\Curso-RabbitMQ\RabbitMQ-My\RabbitMQ-My\obj\Debug\net8.0\RabbitMQ.6E972E1D.Up2Date
+C:\Estudo\ASPNET\Mentoria\Curso-RabbitMQ\RabbitMQ-My\RabbitMQ-My\obj\Debug\net8.0\RabbitMQ-My.dll
+C:\Estudo\ASPNET\Mentoria\Curso-RabbitMQ\RabbitMQ-My\RabbitMQ-My\obj\Debug\net8.0\refint\RabbitMQ-My.dll
+C:\Estudo\ASPNET\Mentoria\Curso-RabbitMQ\RabbitMQ-My\RabbitMQ-My\obj\Debug\net8.0\RabbitMQ-My.pdb
+C:\Estudo\ASPNET\Mentoria\Curso-RabbitMQ\RabbitMQ-My\RabbitMQ-My\obj\Debug\net8.0\RabbitMQ-My.genruntimeconfig.cache
+C:\Estudo\ASPNET\Mentoria\Curso-RabbitMQ\RabbitMQ-My\RabbitMQ-My\obj\Debug\net8.0\ref\RabbitMQ-My.dll
